@@ -1,4 +1,4 @@
-# Desafio-projeto1-CodeGirls
+#Santander Code Girls
 Projeto 1 Finalizado 
 
 Introdução a Programação e Pensamento Computacional
